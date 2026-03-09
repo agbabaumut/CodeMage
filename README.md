@@ -1,5 +1,9 @@
 # CodeMage - Intelligent Image Processing App
 
+
+https://github.com/user-attachments/assets/8df212f8-4422-4fe9-97a0-efa1f93ebbdd
+
+
 A Flutter application that automatically detects content type (faces or documents) and applies appropriate processing pipelines. Built as a case study for **Codeway**.
 
 ## Features
